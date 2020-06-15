@@ -1,0 +1,5 @@
+pip3 install pyemd
+
+install visual building tool (latest)
+
+pip3 install gensim
