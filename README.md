@@ -10,12 +10,13 @@ _To exit Droid-Two's chat you'll have to type :_
 
         *exit
 
-_4 differents searching methods:_
+_5 differents searching methods:_
 
        *vectorial method
        *operator reconnaissance method
        *raw method
        *keyword method
+       *Goodword/Badword method
 
 _Include : English Dataset_
 
